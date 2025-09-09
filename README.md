@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! **amp7458**, also known online as **bmp7458** I’m a software developer with a passion for both frontend and backend development. I love exploring different programming languages, building efficient systems, and creating seamless user experiences.
+Hello, I am Alan. I was born on August 24, 2010. I’m a software developer with a passion for both frontend and backend development. I love exploring different programming languages, building efficient systems, and creating seamless user experiences.
 
 ### 💻 **What I Do**
 - **Backend Development**: I specialize in server-side logic, APIs, and database management with a focus on MongoDB. I'm also skilled in building custom server solutions, particularly with Node.js and WebSockets.
