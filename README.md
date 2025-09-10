@@ -9,6 +9,5 @@ Hello, I am Alan. I was born on August 24, 2010. I’m a software developer with
 ### ⚙️ **Technologies & Tools**
 - **Languages**: JavaScript, HTML/CSS, Bash, Python, etc.
 - **Tools**: Visual Studio, VS Code, npm, GitHub, AWS, MongoDB, and Chrome Dev Tools 
-- **Other Interests**: Firearms, Chemisty, and building stuff.
 
 Feel free to explore my repositories or reach out if you want to collaborate!
