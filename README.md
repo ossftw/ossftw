@@ -1,2 +1,1 @@
-# About Me
-TBD
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ossftw&layout=donut&langs_count=8&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=ossftw&layout=donut&langs_count=8&theme=gruvbox)
