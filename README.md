@@ -6,10 +6,11 @@ Full bio and more available at [ossftw.com](https://ossftw.com)
 
 ---
 
-## PGP Public Key
-This PGP key is used for signing Git commits and tags, as well as email encryption and digital identity verification.
+## OpenPGP signing key (GPG)
 
-[Download PGP Public Key](https://ossftw.com/static/alan-pub.asc)
+This OpenPGP key is used for Git commit/tag signing, email encryption, and identity verification.
+
+[Download Public key (ASCII armored)](https://ossftw.com/static/alan-pub.asc)
 
 ### Fingerprint
 
