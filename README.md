@@ -13,7 +13,7 @@ This PGP key is used for signing Git commits and tags, as well as email encrypti
 
 ### Fingerprint
 
-`A1DC D5C2 5D8F 49F6 2541 5C6F 157F C37A 20C7 D00D`
+`876C CCEE 6A1B 1E29 44F7 B40B 07FC 7B47 79CB F894`
 
 ---
 
