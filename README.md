@@ -20,4 +20,4 @@ This OpenPGP key is used for Git commit/tag signing, email encryption, and ident
 
 Github Stats:
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ossftw&layout=compact&langs_count=4&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=ossftw&layout=compact&langs_count=4&theme=gruvbox)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ossftw&layout=compact&langs_count=5&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=ossftw&layout=compact&langs_count=5&theme=gruvbox)
