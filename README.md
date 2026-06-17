@@ -2,8 +2,6 @@
 
 Hello, my name is Alan. I am a computer engineer.
 
-Full bio and more available at [ossftw.com](https://ossftw.com)
-
 ---
 
 ## OpenPGP signing key (GPG)
@@ -20,4 +18,4 @@ This OpenPGP key is used for Git commit/tag signing, email encryption, and ident
 
 Github Stats:
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ossftw&layout=compact&langs_count=6&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=ossftw&layout=compact&langs_count=6&theme=gruvbox)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ossftw&layout=compact&langs_count=8&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=ossftw&layout=compact&langs_count=8&theme=gruvbox)
